@@ -1,0 +1,156 @@
+
+.img{
+    
+    /* height: 650px; */
+    /* object-fit: cover;
+    object; */
+    width: 100%;
+    height: 600px;
+    margin-top: -0px;
+    margin-right: -40px;
+}
+.overlay{
+    margin-top: -500px;
+    color: white;
+    font-family: Poppins;
+Font-style:Mixed;
+Font-size:100px;
+width: 900px;
+Line-height:125px;
+Line-height:104%;
+vertical-align: middle;
+margin-left: 210px;
+justify-content:center;
+text-align: center;
+   
+}
+.img1{
+    width: 100%;
+    height: 650px;
+    margin-top:-10px;
+    margin-right: -40px; 
+}
+.overlay1{
+    text-align: center;
+margin-top: -620px;
+
+}
+.overlay2{
+text-align: center;
+}
+
+.image-container::after {
+    content: "";
+    position: absolute;
+   margin-top:-210px;
+   margin-left: 350px;
+    width: 50%;
+    height:40%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+    clip-path: ellipse(50% 100% at 50% 100%);
+  }
+  .img4{
+    margin-top: 310px;
+    margin-left: 550px;
+  }
+  .img5{
+    margin-top: 100px;
+    height: 600px;
+    width:1620px;
+  }
+  .gradient-box {
+    width:700px;
+    height: 400px;
+    background: linear-gradient(to right, #474747 0%, #222222 41.8%);
+  }
+  .overlay3{
+    margin-top:-480px;
+    margin-left: 220px;
+    position: absolute;
+    width: 100%;
+    height:45%;
+    background: linear-gradient(to right, #474747 0%, #222222 41.8%);
+
+  }
+  .a2{
+    position: relative;
+    display: inline-block;
+    margin-top: 100px;
+    height: 800px;
+  }
+  .a2 img {
+    display: block;
+    width: 100%;
+    height: 600px;
+    width: 1620px;
+  }
+  .column{
+    position: relative;
+    display: inline-block;
+    margin-top: 100px;
+    height: 10px;
+  }
+  .a3{
+    width: 400px;
+    height: 200px;
+  }
+  .a4{
+    border-radius:60px;
+    width:75px;
+    height:57px;
+    margin-left: 210px;
+    margin-top: -7px;
+    display: flex;
+
+  }
+  .overlay4 {
+    width: 460px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: #ffffff; 
+    border: 1px solid black; 
+    color: #514E4E;
+    Font-family: Poppins;
+Font-style: Light;
+Font-size: 14.44px;
+Line-height: 20px;
+/* Line-height: 150%; */
+Letter-spacing: 3%;
+border-radius: 7px;
+  }
+  .card-body{
+  
+    margin-left: 210px;
+    
+  }
+  .card{
+    border: none;
+  }
+  .form-control{
+    border-color: black;
+    height: 50px;
+  }
+  .custom-select{
+    height:50px ;
+    border-color: black;
+  }
+  .a5{
+    width: 420px;
+    height: 500px;
+    margin-left: 800px;
+    margin-top: -600px;
+  }
+  .cont1{
+    margin-top: 150px;
+  }
+
+  .circle-top {
+    position: absolute;
+    top: -20px; 
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%;
+    background-color:whitesmoke;
+  }  
