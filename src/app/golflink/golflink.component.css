@@ -20,6 +20,23 @@
     margin-top: -300px;
     margin-left: 540px;
   }
+.imb{
+position: absolute;
+border: none;
+bottom: -30px;
+left: 300px;
+color: white;
+}
+/* .imb :hover{
+  cursor: pointer;
+} */
+.imb2{
+  position: absolute;
+  /* bottom: 2px; */
+  bottom: -30px;
+  right: 300px;
+  color: white;
+  }
   .button-container {
     display: flex;
     justify-content:space-between;
