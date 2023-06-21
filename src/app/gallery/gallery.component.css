@@ -1,4 +1,11 @@
-  
+
+.ic{width: 100%;
+height: auto;}
+
+.ic{
+  width:100%;
+  overflow:hidden;}
+
   .translucent-strip {
     position: absolute;
     top: 50%;
